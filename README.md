@@ -6,13 +6,10 @@ This project is a responsive landing page layout recreated from a UI design mock
 
 ## Preview
 
+https://yonathanjaramillo.github.io/responsive-layout-UI-design-mockup/
+
 Open `index.html` with Live Server or directly in your browser to view the project.
 
-## Layout Reference
-
-The layout was recreated based on the following design reference:
-
-https://communitytaught.org/img/resources/source-wireframe-max-schneider.webp
 
 ## Technologies Used
 
